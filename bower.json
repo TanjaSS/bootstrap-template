@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-template",
+  "version": "0.0.1",
+  "homepage": "https://github.com/TanjaSS/bootstrap-template",
+  "authors": [
+    "Tanja Stjepanović Stričević <stricevictanja@gmail.com>"
+  ],
+  "description": "Template for starting new Bootstrap based project.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
